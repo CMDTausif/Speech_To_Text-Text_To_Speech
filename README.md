@@ -1,6 +1,6 @@
 # Speech_To_Text-Text_To_Speech
 
-# Important Libraries
+# Important Modules and Libraries
 ## Text To Speech
 * IPython
 * gtts
